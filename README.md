@@ -17,5 +17,5 @@ This repository contains my 26-week JavaScript learning journey
 ## Table of Contents
 
 * [Day 01](./day-01/NOTES.md)
-* [Day 02](./day-02/NOTES.md)
+* [Day 02](./day-02/Notes.md)
 * [Day 03](./day-03/NOTES.md)
